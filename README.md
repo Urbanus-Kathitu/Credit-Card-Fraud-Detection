@@ -11,10 +11,6 @@ Welcome to the Credit Card Fraud Detection project repository! This repository c
 3. [Data Cleaning](#data-cleaning)
 4. [Preprocessing](#preprocessing)
 5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-6. [Usage](#usage)
-7. [Dependencies](#dependencies)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction
 
